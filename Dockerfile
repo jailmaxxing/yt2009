@@ -23,7 +23,7 @@ USER node
 ENV YT2009_PORT=80 \
     YT2009_ENV=dev \
     YT2009_IP=yt2009jd.onrender.com \
-    YT2009_SSL=false \
+    YT2009_SSL=true \
     YT2009_SSLPORT=443 \
     YT2009_SSLPATH=/yt2009/cert.crt \
     YT2009_SSLKEY=/yt2009/cert.key \
